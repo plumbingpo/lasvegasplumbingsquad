@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lasvegasplumbingsquad.com/sitemap.xml
